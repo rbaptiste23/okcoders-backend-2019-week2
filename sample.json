@@ -11,3 +11,23 @@
     Contact: "555-1212",
     Name: "Dell" 
 }
+
+
+{
+    UID: 3,
+    Username: "one",
+    Full Name: "Randall Corn"
+}
+
+
+{
+    UID: 4,
+    Username: "two",
+    Full Name: "Zach Morris"
+}
+
+{
+    UID: 5,
+    Username: "three",
+    Full Name: "Charlie Baker"
+}
