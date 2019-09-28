@@ -1,0 +1,13 @@
+{
+    UID: 1,
+    Name: "Dell", 
+    Contact: "555-1212",
+    Category: "Computers"
+}
+
+{
+    UID: 2, 
+    Category: "Printers",
+    Contact: "555-1212",
+    Name: "Dell" 
+}
